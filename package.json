@@ -1,0 +1,19 @@
+{
+  "name": "gilded-rose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gilded-rose.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "dilip",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.2.2"
+  }
+}
